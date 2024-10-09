@@ -3,3 +3,4 @@ hello
 ko
 jo
 hello friend
+This is a text file
