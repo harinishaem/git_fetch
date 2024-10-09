@@ -1,0 +1,1 @@
+Command Palette (Ctrl+Shift+P). If you run Git: Checkout to, you will see a dropdown list containing all of the branches or tags in the current repository.
